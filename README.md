@@ -1,2 +1,3 @@
 # Data-structures-MC202
-Data structures projects
+
+Exercises and projects proposed in the second period of college in an Data Structures course 
